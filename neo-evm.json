@@ -1,0 +1,27 @@
+{
+  "version": "3.0",
+  "accounts": [
+    {
+      "script": "0x0002507aa6add56fee709831412c87e27a43db0378abfd112d2f33a2e90606c87ede",
+      "address": "0x180b016a258645b43c7696f00b0738a0cdc986e6",
+      "key": "6PYQd9EQfwE9y5M4YMjkAm2hbJt44Zbg31rkPD64ed7BCymnWwx8f5pQoz",
+      "label": "mindy",
+      "lock": false,
+      "isDefault": false
+    },
+    {
+      "script": "0x010102507aa6add56fee709831412c87e27a43db0378abfd112d2f33a2e90606c87ede",
+      "address": "0x41001a531c58be30632db26264584ee71e1fa4d6",
+      "key": "",
+      "label": "mindy",
+      "lock": false,
+      "isDefault": false
+    }
+  ],
+  "scrypt": {
+    "n": 16384,
+    "r": 8,
+    "p": 8
+  },
+  "extra": { "Tokens": null }
+}
